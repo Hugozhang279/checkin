@@ -3,7 +3,6 @@ name: run
 on:
   workflow_dispatch:
   push:
-  schedule:
 
 jobs:
   run:
